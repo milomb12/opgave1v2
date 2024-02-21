@@ -22,7 +22,8 @@
 	<li class="list-group-item">Kartofler</li>
 	<li class="list-group-item">Chips</li>
 	<li class="list-group-item">Kage</li>
-	<li class="list-group-item">Kage</li>
+    <li class="list-group-item">Kage</li>
+    <li class="list-group-item">Mælk</li>
 </ul>
 
 
